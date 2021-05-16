@@ -1,0 +1,12 @@
+{
+  "name": "MyBallRolling",
+  "displayName": "MyBallRolling",
+  "expo": {
+    "name": "MyBallRolling",
+    "slug": "MyBallRolling",
+    "version": "1.0.0",
+    "assetBundlePatterns": [
+      "**/*"
+    ]
+  }
+}
